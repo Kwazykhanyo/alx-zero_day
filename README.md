@@ -1,1 +1,1 @@
-my first readme
+my name is Nokwazi Makhanya
